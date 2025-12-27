@@ -1,21 +1,16 @@
-# servo
+# Micro:bit-Makecode舵机扩展
 
-An empty project for docs rendering
+适用于SG90舵机的使用
 
-## TODO
+## 使用示例
 
-- [ ] Add a reference for your blocks here
-- [ ] Add "icon.png" image (300x200) in the root folder
-- [ ] Add "- beta" to the GitHub project description if you are still iterating it.
-- [ ] Turn on your automated build on https://travis-ci.org
-- [ ] Use "pxt bump" to create a tagged release on GitHub
-- [ ] On GitHub, create a new file named LICENSE. Select the MIT License template.
-- [ ] Get your package reviewed and approved https://makecode.com/extensions/approval
+根据下图测试舵机是否正常运作
 
-Read more at https://makecode.com/extensions
 
-## Supported targets
+<img width="317" height="467" alt="image" src="https://github.com/user-attachments/assets/0a5f4afb-b6af-4982-b8d7-8f2cc2f1d52e" />
 
-* for PXT/core
-(The metadata above is needed for package search.)
+## 支持目标
+本扩展板测试为micro:bit V2.0开发板，其他板子未测试
 
+## License
+MIT
