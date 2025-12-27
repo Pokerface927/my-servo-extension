@@ -1,8 +1,11 @@
 {
     "name": "servo",
-    "version": "0.0.0",
-    "description": "An empty project for docs rendering",
-    "dependencies": {},
+    "version": "1.0.0",
+    "description": "A simple library to control standard servos on micro:bit.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
     "files": [
         "README.md",
         "main.ts"
@@ -10,6 +13,9 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "license": "MIT"
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
 }
